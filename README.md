@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Django Framework,React**
 
-- 👨‍💻 All of my projects are available at [https://denilkurian.netlify.app/](https://denilkurian.netlify.app/)
+- 👨‍💻 Checkout my portfolio  [https://denilkurian.netlify.app/](https://denilkurian.netlify.app/)
 
 - 📫 How to reach me **denilkurian@gmail.com**
 
