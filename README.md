@@ -1,5 +1,5 @@
-<div align="center" ><img  width="300" src="https://cdn.dribbble.com/users/2057155/screenshots/4542166/laptop.gif"  ></div>
-<h1 align="center">I am  Denil </h1>
+<div align="center" ><img  width="300" src="https://cdn.dribbble.com/users/1805542/screenshots/4596376/laptop.gif"  ></div>
+<h1 align="center">Hello Everyone,I am  Denil </h1>
 <h3 align="center">Web Developer</h3>
 
 -  Currently learning **Django rest Framework,React**
@@ -15,8 +15,4 @@
 <a href="https://www.linkedin.com/in/denil-kurian-7a992924a/"><img src="https://static-00.iconduck.com/assets.00/linkedin-icon-512x512-vkm0drb1.png" width="40px"></a>&nbsp;&nbsp;<a href="https://www.instagram.com/____denil__/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="40px"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:denilkuriancc@gmail.com"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrOcbK6L5_qnLF2JBSi51_wITYM6sQ4z12VvhLo-dq_9nePELx9VEOwTYN21qlyxfj4yA&usqp=CAU" width="40px"></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denilkurian&show_icons=true&locale=en&layout=compact" alt="denilkurian" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denilkurian&show_icons=true&locale=en" alt="denilkurian" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denilkurian&" alt="denilkurian" /></p>
