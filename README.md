@@ -2,7 +2,7 @@
 <h1 align="center">Hello Everyone,I am  Denil </h1>
 <h3 align="center">Web Developer</h3>
 
--  Currently learning **Django rest Framework,React**
+-  Currently learning **Django rest Framework**
 
 -  Checkout my portfolio  [https://denilkurian.netlify.app/](https://denilkurian.netlify.app/)
 
