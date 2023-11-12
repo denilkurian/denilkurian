@@ -2,9 +2,7 @@
 <h1 align="center">Hello Everyone,I am  Denil </h1>
 <h3 align="center">Web Developer</h3>
 
--  Currently learning **Django rest Framework**
-
--  Checkout my portfolio  [https://denilkurian.netlify.app/](https://denilkurian.netlify.app/)
+-  Currently learning **Fast Api**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css" width="40" height="40"/> </a> <a href="#" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="BS" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://yt3.googleusercontent.com/ytc/AGIKgqNJxTuPRO4_zXZuUyfCz-sTL482_6R4w_zq6C9LBg=s900-c-k-c0x00ffffff-no-rj" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/935px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
